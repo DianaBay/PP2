@@ -1,0 +1,6 @@
+C:\Users\Alser\source\repos\Lab1\Lab1Task4\bin\Debug\Lab1Task4.exe.config
+C:\Users\Alser\source\repos\Lab1\Lab1Task4\bin\Debug\Lab1Task4.exe
+C:\Users\Alser\source\repos\Lab1\Lab1Task4\bin\Debug\Lab1Task4.pdb
+C:\Users\Alser\source\repos\Lab1\Lab1Task4\obj\Debug\Lab1Task4.csproj.CoreCompileInputs.cache
+C:\Users\Alser\source\repos\Lab1\Lab1Task4\obj\Debug\Lab1Task4.exe
+C:\Users\Alser\source\repos\Lab1\Lab1Task4\obj\Debug\Lab1Task4.pdb
