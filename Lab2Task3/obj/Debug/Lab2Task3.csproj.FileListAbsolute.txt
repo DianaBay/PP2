@@ -1,0 +1,6 @@
+C:\Users\Alser\source\repos\Lab2Task1\Lab2Task3\bin\Debug\Lab2Task3.exe.config
+C:\Users\Alser\source\repos\Lab2Task1\Lab2Task3\bin\Debug\Lab2Task3.exe
+C:\Users\Alser\source\repos\Lab2Task1\Lab2Task3\bin\Debug\Lab2Task3.pdb
+C:\Users\Alser\source\repos\Lab2Task1\Lab2Task3\obj\Debug\Lab2Task3.csproj.CoreCompileInputs.cache
+C:\Users\Alser\source\repos\Lab2Task1\Lab2Task3\obj\Debug\Lab2Task3.exe
+C:\Users\Alser\source\repos\Lab2Task1\Lab2Task3\obj\Debug\Lab2Task3.pdb
